@@ -4,7 +4,6 @@
     /*globals alert*/
     'use strict';
 
-    console.log(Reveal.getQueryHash());
     var querySlidingHtml = function () {
             var sections = document.querySelectorAll('[data-html]'),
                 section;
