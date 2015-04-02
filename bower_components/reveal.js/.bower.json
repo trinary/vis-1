@@ -1,0 +1,13 @@
+{
+  "name": "reveal.js",
+  "homepage": "https://github.com/hakimel/reveal.js",
+  "_release": "8858ee75a5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8858ee75a5b5a74c4ed102555c7baaa0f5d29ecd"
+  },
+  "_source": "git://github.com/hakimel/reveal.js.git",
+  "_target": "master",
+  "_originalSource": "reveal.js"
+}
